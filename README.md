@@ -1,4 +1,5 @@
 # HelloWorldJM
-Repositorio para mi primer Hello World
-Project Manager Certificado por el PMI, feliz padre de familia en busca de proyectos interesantes.
-Este es mi primer programita y estoy muy motivado para seguir haciendo cosas increibles.
+Repository for my first little program
+I'm Juan Manuel, a Project Manager Certified by PMI.
+I'm a happy father of two daugthers
+I want learn about Github and programation
